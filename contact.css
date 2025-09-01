@@ -89,8 +89,6 @@ body {
     background-color: #06402b; /* Dark green */
 } /* Blushy pastel pink */
 #section3 { background-color: #b2c2a1; } /* Sage green */
-#section4 { background-color: #f5f5dc; color: #07305d; } /* Pastel beige */
-
 
 .card-container {
     display: flex; 
